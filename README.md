@@ -1,16 +1,21 @@
-### Hi there 👋
+### Boas vindas ao meu perfil!
+Olá! Sou Lucas Bezerra Pinheiro, professor da rede estadual de São Paulo, apaixonado por ensinar e compartilhar conhecimento. Aqui está um pouco sobre mim:
 
-<!--
-**professor768/professor768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Formação Acadêmica:**
+  - Técnico em Administração pela ETEC Prof. Carmine Biagio Tundisi.
+  - Graduação em Licenciatura em Matemática pela Unicamp.
+  - Mestrado em Matemática em andamento pela Unicamp.
+  - Cursando Pedagogia na UFMS para aprimorar ainda mais minha formação.
 
-Here are some ideas to get you started:
+- **Interesses:**
+  - Educação Matemática.
+  - Metodologias de Ensino.
+  - Tecnologias Educacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+
+Se você tiver alguma dúvida, sugestão ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato comigo!
+
+- E-mail: bezerrapinheiro@prof.educacao.sp.gov.br
+- LinkedIn: https://www.linkedin.com/in/lucas-bezerra-3872501ba/
+- Lattes: http://lattes.cnpq.br/6751689585971548
